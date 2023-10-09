@@ -1,7 +1,7 @@
 <h1 align="center"> 🚀 Age | Vanilla </h1>
 
 ## ✍️ Descrição
-Exemplificação de aplição de calcular a idade usando vanilla ou Javascript puro.
+Exemplificação de aplicação de calcular a idade usando vanilla ou Javascript puro.
 
 
 ## 📥 Clone/Baixe
